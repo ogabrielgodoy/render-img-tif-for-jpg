@@ -18,8 +18,9 @@ Este script em Python percorre recursivamente um diretório especificado, locali
 
 ### Use no console para instalar biblioteca
 ```bash
-(Execute para instalar: pip install pillow)
-
+pip install pillow
+```
 ### Use no console para executar código
 ```bash
 python app.py
+```
