@@ -24,3 +24,4 @@ pip install pillow
 ```bash
 python app.py
 ```
+
