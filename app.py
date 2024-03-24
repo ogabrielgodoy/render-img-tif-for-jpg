@@ -13,9 +13,10 @@ def convert_tif_to_jpg(tif_path):
         print(f"Erro ao processar {tif_path}: {e}")
 
 def main():
+    # adicione o diretorio
     root_dir = "feitos"
 
-    # Percorre todo o diretório "feitos"
+    # Percorre todo o diretório
     for root, dirs, files in os.walk(root_dir):
         for file in files:
             if file.lower().endswith('.tif'):
