@@ -14,8 +14,12 @@ Este script em Python percorre recursivamente um diretório especificado, locali
 
 ### Requisitos
 - Python
-- Biblioteca Pillow (PIL) (Execute para instalar: pip install pillow)
+- Biblioteca Pillow (PIL)
 
-### Use no console para executar
+### Use no console para instalar biblioteca
+```bash
+(Execute para instalar: pip install pillow)
+
+### Use no console para executar código
 ```bash
 python app.py
